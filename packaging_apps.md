@@ -30,6 +30,7 @@ The `manifest.json` file defines the app's constants, a bunch of values that Yun
         "fr": "Webmail Open Source"
     },
     "license": "GPL-3",
+    "version": "0.1",
     "maintainer": {
         "name": "kload",
         "email": "kload@kload.fr",
