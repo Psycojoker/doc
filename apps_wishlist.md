@@ -26,6 +26,7 @@ The following list is a compiled wishlist of applications that would be nice-to-
 * [FileTea](https://filetea.me)
 * [Flarum](http://flarum.org/)
 * [Fossil](http://www.fossil-scm.org)
+* [Galette](http://galette.eu/dc/index.php/pages/%C3%80-propos)
 * [Git-annex](http://git-annex.branchable.com/)
 * [Gitit](http://gitit.net/)
 * [GitLab](http://gitlab.org/)
