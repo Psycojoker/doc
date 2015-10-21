@@ -84,6 +84,7 @@ The following list is a compiled wishlist of applications that would be nice-to-
 * [Shleuder](http://schleuder2.nadir.org/)
 * [SIP](https://en.wikipedia.org/wiki/List_of_SIP_software#Free_and_open-source_license)
 * [Sonerezh](https://github.com/Sonerezh)
+* [Streama](https://github.com/dularion/streama)
 * [Streisand](https://github.com/jlund/streisand)
 * [SVG-Edit](https://github.com/SVG-Edit/svgedit)
 * [Sympa](http://www.sympa.org/)
